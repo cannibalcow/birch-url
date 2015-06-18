@@ -19,7 +19,7 @@
 			</thead>
 			<tbody>
 				<tr ng-repeat="u in urls | orderBy:'-date' ">
-				<td> {{u.id}} {{u.server}} </td>
+				<td> {{u.server}} </td>
 				<td> #{{u.channel}}</td>
 				<td> <a href="#/{{u.server}}/{{u.nick}}">{{u.nick}}</a></td>
 				<td> {{u.date | date:'yyyy-MM-dd HH:mm:ss'}}</td>
