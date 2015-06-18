@@ -1,0 +1,23 @@
+{
+  "name": "birch-url",
+  "main": "birch-url.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cannibalcow/birch-url",
+  "authors": [
+    "Daniel Heldt <danielheldtsmail@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
