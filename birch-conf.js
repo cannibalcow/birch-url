@@ -1,3 +1,3 @@
 birchcfg = {
-	birchUrl: "http://sorkmos.com:8080/"
+	birchUrl: "http://localhost:8080/"
 };
